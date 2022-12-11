@@ -1,0 +1,6 @@
+final int SCREEN_HEIGHT = 300, SCREEN_WIDTH = 500;
+final int A_FORWARD = 0, A_BACKWARD = 1, A_DOWN = 2;
+final int BUFFER = 10;
+final int PLAYER_HEIGHT = 15, PLAYER_WIDTH = 30;
+final int ALIEN_HEIGHT = 25, ALIEN_WIDTH = 30;
+final int POWERUP_HEIGHT = 25, POWERUP_WIDTH = 25;
